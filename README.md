@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...MERN Stack 
-- 🌱 I’m currently learning ...Mongodb & Express
+- 🌱 I’m currently learning ...Mongodb & React
 - 👯 I’m looking to collaborate on ...MERN Stack
 - 🤔 I’m looking for help with ...Typescript
 - 💬 Ask me about ...anything
